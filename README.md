@@ -1,8 +1,9 @@
-# Movie Listing App
+# Movie Listing Mobile App
 
 Displays a list of now showing movies allowing the user to filter by genre and rating.
 
 ### Note: You need to add TMDb API key to config.js file to show movie list.
+
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
